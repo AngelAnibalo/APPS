@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sena: #39A900;
+  --color-sena-dark: #2A7C00;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background-color: #f3f4f6;
+  font-family: var(--font-sans);
+}
